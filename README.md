@@ -1,5 +1,10 @@
 # TurnRPG – Turn-Based RPG Prototype (React & JavaScript)
 
+### The project has been archived and will no longer receive support.
+Feel free to reach out if you need help with anything; this notice concerns new updates.
+
+---
+
 TurnRPG is a prototype designed for game developers who want to build turn-based games using a simple, pre-structured foundation that supports scalability and extensibility.
 
 ## Demonstration
